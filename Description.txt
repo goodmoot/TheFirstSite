@@ -1,0 +1,1 @@
+It is an example of file to sent to GiHub for the first time.
